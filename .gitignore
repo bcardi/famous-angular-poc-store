@@ -1,0 +1,24 @@
+###############################
+# WebStorm project files
+###############################
+.idea/
+
+###############################
+# npm & bower dependencies
+###############################
+lib/
+node_modules/
+
+###############################
+# App compile output files
+###############################
+app/**/*.js
+app/**/*.js.map
+app/**/*.d.ts
+app/**/*.css
+app/**/*.css.map
+login/**/*.js
+login/**/*.js.map
+login/**/*.d.ts
+login/**/*.css
+login/**/*.css.map
